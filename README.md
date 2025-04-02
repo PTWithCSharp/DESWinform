@@ -15,11 +15,6 @@ This is a Windows Forms (.NET) application that allows users to encrypt and decr
 - .NET Framework / .NET Core
 - Administrator permissions (if required for file operations)
 
-## Installation
-1. Download and extract the application files.
-2. Run `DES_Encryption_Tool.exe`.
-3. Ensure .NET runtime is installed if required.
-
 ## Usage
 ### Encrypting Text
 1. Open the application.
@@ -52,9 +47,4 @@ This is a Windows Forms (.NET) application that allows users to encrypt and decr
 - Always verify encryption results before deleting the original file.
 - This tool is intended for educational purposes and basic encryption needs.
 
-## License
-This project is released under the MIT License.
-
-## Contact
-For support or feedback, please contact [Your Email or Website].
 
